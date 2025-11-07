@@ -32,3 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 src/test/test.http
+.mvn/
+mvnw
+mvnw.cmd
