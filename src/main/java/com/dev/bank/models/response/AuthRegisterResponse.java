@@ -6,5 +6,5 @@ import lombok.EqualsAndHashCode;
 @Data
 @EqualsAndHashCode(callSuper = true)
 public class AuthRegisterResponse extends BaseResponse {
-
+    private String token;
 }
